@@ -1,0 +1,96 @@
+50 candidates
+ID,Formula,808nm_5min,Score,Status
+01R-V,Ca9.65Mn0.28Nd0.12(PO4)6(OH)1.85•IR1061-PEG-BP,99,0.89,Paper Top-7
+07-V,Ca9.75Fe0.18Pt0.06Gd0.07(PO4)6(OH)1.9•DOX-GQD-BP,96,0.85,Paper Top-7
+10-V,Ca9.82Mg0.12Au0.05Sm0.03(PO4)6(OH)1.95•vanco-lipid-BP,99,0.88,Paper Top-7
+15-V,Ca9.68Sr0.18Ce0.09Yb0.04(PO4)6(OH)1.85•genta-IR-lipid,98,0.84,Paper Top-7
+22-V,Ca9.88La0.08Pr0.07Nd0.05(PO4)6(OH)1.9•rifamp-folate-PEG,97,0.82,Paper Top-7
+02R-V,Ca9.75Cu0.18Yb0.04Er0.03(PO4)6(OH)1.95•vancomycin-folate,94,0.81,Paper Top-7
+05R-V,Ca9.7Sr0.15Ce0.1Sm0.05(PO4)6(OH)1.9•genta-BP,97,0.83,Paper Top-7
+HA-IR-19,Ca9.9La0.25Pr0.1Y0.1(PO4)6(OH)1.95•cipro-chitosan-folate,85,0.52,Generated
+HA-IR-33,Ca9.85Nd0.12Mn0.28(PO4)6(OH)1.92•amikacin-lipid-IR1061,82,0.5,Generated
+HA-IR-89,Ca9.8Mn0.25Nd0.1(PO4)6(OH)1.92•IR1061-PEG,90,0.52,Generated
+HA-IR-06,Ca9.75Nd0.12Mn0.28(PO4)6(OH)1.84•rifampicin-lipid-BP,91,0.53,Generated
+HA-IR-49,Ca9.7Mg0.1Au0.03(PO4)6(OH)1.88•genta-BP,86,0.52,Generated
+HA-IR-83,Ca9.65La0.25Pr0.1Y0.1(PO4)6(OH)1.88•amikacin-lipid-IR1061,87,0.58,Generated
+HA-IR-54,Ca9.6Cu0.15Yb0.03Er0.02(PO4)6(OH)1.81•cipro-folate,89,0.55,Generated
+HA-IR-52,Ca9.55Bi0.32Gd0.18Cu0.11(PO4)6(OH)1.86•IR1061-PEG,92,0.56,Generated
+HA-IR-43,Ca9.5Sm0.03Au0.05(PO4)6(OH)1.94•linezolid-PEG,82,0.57,Generated
+HA-IR-64,Ca9.45Bi0.32Gd0.18Cu0.11(PO4)6(OH)1.85•linezolid-IR,83,0.54,Generated
+HA-IR-95,Ca9.4Sr0.1Ce0.08Sm0.05(PO4)6(OH)1.87•tobramycin-GQD-BP,85,0.57,Generated
+HA-IR-26,Ca9.35Bi0.32Gd0.18Cu0.11(PO4)6(OH)1.93•DOX-GQD,90,0.57,Generated
+HA-IR-34,Ca9.3Pt0.05Fe0.2(PO4)6(OH)1.85•rifampicin-lipid-BP,92,0.57,Generated
+HA-IR-10,Ca9.25Co0.2Ni0.1Mo0.05(PO4)6(OH)1.95•linezolid-IR,82,0.52,Generated
+HA-IR-78,Ca9.2Co0.2Ni0.1Mo0.05(PO4)6(OH)1.85•rifampicin-lipid-BP,85,0.59,Generated
+HA-IR-88,Ca9.15Co0.2Ni0.1Mo0.05(PO4)6(OH)1.93•linezolid-PEG,88,0.59,Generated
+HA-IR-74,Ca9.1Pt0.05Fe0.2(PO4)6(OH)1.85•tobramycin-GQD-BP,85,0.57,Generated
+HA-IR-34,Ca9.05Cu0.15Yb0.03Er0.02(PO4)6(OH)1.92•genta-BP,91,0.54,Generated
+HA-IR-20,Ca9.0Fe0.15Pt0.05(PO4)6(OH)1.9•IR1061-PEG,94,0.5,Generated
+HA-IR-14,Ca8.95Fe0.15Pt0.05(PO4)6(OH)1.83•vanco-lipid,92,0.54,Generated
+HA-IR-76,Ca8.9Zn0.15Ti0.1(PO4)6(OH)1.92•rifampicin-lipid-BP,89,0.55,Generated
+HA-IR-40,Ca8.85Ag0.2Ti0.1Zn0.1(PO4)6(OH)1.94•vanco-lipid,92,0.59,Generated
+HA-IR-98,Ca8.8Co0.2Ni0.1Mo0.05(PO4)6(OH)1.86•amikacin-lipid-IR1061,84,0.55,Generated
+HA-IR-86,Ca8.75Cu0.15Yb0.03Er0.02(PO4)6(OH)1.95•IR1061-PEG,90,0.59,Generated
+HA-IR-53,Ca8.7Bi0.3Gd0.2(PO4)6(OH)1.93•linezolid-IR,91,0.52,Generated
+HA-IR-82,Ca8.65Mg0.1Au0.03(PO4)6(OH)1.99•IR1061-PEG,90,0.59,Generated
+HA-IR-45,Ca8.6Co0.2Ni0.1Mo0.05(PO4)6(OH)1.8•vancomycin-chitosan,87,0.59,Generated
+HA-IR-16,Ca8.55Mn0.25Nd0.1(PO4)6(OH)1.85•cipro-chitosan-folate,91,0.59,Generated
+HA-IR-22,Ca8.5Au0.05Mg0.1(PO4)6(OH)1.81•linezolid-IR,94,0.55,Generated
+HA-IR-73,Ca8.45Fe0.15Pt0.05(PO4)6(OH)1.9•vanco-lipid,90,0.52,Generated
+HA-IR-31,Ca8.4Gd0.2La0.1(PO4)6(OH)1.99•linezolid-PEG,94,0.57,Generated
+HA-IR-72,Ca8.35Bi0.3Gd0.2(PO4)6(OH)2.0•rifampicin-lipid-BP,92,0.54,Generated
+HA-IR-81,Ca8.3Pt0.05Fe0.2(PO4)6(OH)1.85•amikacin-lipid-IR1061,83,0.53,Generated
+HA-IR-86,Ca8.25Nd0.12Mn0.28(PO4)6(OH)1.92•linezolid-PEG,82,0.51,Generated
+HA-IR-15,Ca8.2Co0.22Ni0.12Mo0.08W0.04(PO4)6(OH)1.81•linezolid-PEG,82,0.59,Generated
+HA-IR-22,Ca8.15Yb0.04Er0.03Cu0.18(PO4)6(OH)1.86•linezolid-PEG,89,0.52,Generated
+HA-IR-58,Ca8.1Sm0.03Au0.05(PO4)6(OH)1.89•DOX-GQD,94,0.55,Generated
+HA-IR-58,Ca8.05Sr0.12Nd0.05Yb0.03(PO4)6(OH)1.82•amikacin-lipid-IR1061,88,0.54,Generated
+HA-IR-88,Ca8.0Pt0.05Fe0.2(PO4)6(OH)1.95•linezolid-IR,92,0.57,Generated
+HA-IR-19,Ca7.95La0.25Pr0.1Y0.1(PO4)6(OH)1.88•cipro-chitosan-folate,87,0.58,Generated
+HA-IR-29,Ca7.9Mn0.25Nd0.1(PO4)6(OH)1.84•linezolid-PEG,89,0.51,Generated
+HA-IR-76,Ca7.85Cu0.15Yb0.03Er0.02(PO4)6(OH)1.85•vancomycin-chitosan,83,0.54,Generated
+HA-IR-17,Ca7.8La0.25Pr0.1Y0.1(PO4)6(OH)1.93•cipro-chitosan-folate,90,0.58,Generated
+ID,Formula,Dopants,Coating + Drug,Predicted Bandgap,808 nm Burst (5 min),ProTox,Score,Novelty Gap Filled
+HA-IR-01,Ca₉.₇Mn₀.₂Nd₀.₁(PO₄)₆(OH)₁.₉,Mn+Nd,IR1061 + alendronate,4.10 eV,95 %,0.14,0.58,Mn-Nd + dye + BP
+HA-IR-02,Ca₉.₈Cu₀.₁₅Yb₀.₀₃Er₀.₀₂(PO₄)₆(OH)₂,Cu + Yb/Er,Vancomycin + folate-PEG,4.10 eV,88 %,0.14,0.54,Upconversion + folate
+HA-IR-03,Ca₉.₅Bi₀.₃Gd₀.₂(PO₄)₆(OH)₁.₇,Bi+Gd,DOX + GQDs + BP,4.25 eV,88 %,0.14,0.52,Bi-Gd + GQD
+HA-IR-04,Ca₉.₆Co₀.₂Ni₀.₁Mo₀.₀₅… + IR1061,Co/Ni/Mo triple,Cipro + chitosan-folate,4.30 eV,88 %,0.14,0.52,First TM-triple
+HA-IR-05,Ca₉.₇₅Sr₀.₁Ce₀.₀₈Sm₀.₀₅…,Sr + Ce/Sm,Gentamicin + lipid-IR1061,4.60 eV,95 %,0.14,0.53,Sr-RE + lipid
+
+Cycle 1 candidates
+ID,Formula,Dopants,Coating + Drug,Predicted Bandgap,808 nm Burst (5 min),ProTox,Score,Novelty Gap Filled
+HA-IR-01,Ca₉.₇Mn₀.₂Nd₀.₁(PO₄)₆(OH)₁.₉,Mn+Nd,IR1061 + alendronate,4.10 eV,95 %,0.14,0.58,Mn-Nd + dye + BP
+HA-IR-02,Ca₉.₈Cu₀.₁₅Yb₀.₀₃Er₀.₀₂(PO₄)₆(OH)₂,Cu + Yb/Er,Vancomycin + folate-PEG,4.10 eV,88 %,0.14,0.54,Upconversion + folate
+HA-IR-03,Ca₉.₅Bi₀.₃Gd₀.₂(PO₄)₆(OH)₁.₇,Bi+Gd,DOX + GQDs + BP,4.25 eV,88 %,0.14,0.52,Bi-Gd + GQD
+HA-IR-04,Ca₉.₆Co₀.₂Ni₀.₁Mo₀.₀₅… + IR1061,Co/Ni/Mo triple,Cipro + chitosan-folate,4.30 eV,88 %,0.14,0.52,First TM-triple
+HA-IR-05,Ca₉.₇₅Sr₀.₁Ce₀.₀₈Sm₀.₀₅…,Sr + Ce/Sm,Gentamicin + lipid-IR1061,4.60 eV,95 %,0.14,0.53,Sr-RE + lipid
+
+
+Cycle 2 candidates
+ID,Formula (key),Key Dopant,Drug + Coating,808 nm 5-min,Bandgap,ProTox,Score,Lit-backed Boost
+01R,Ca9.65Mn0.25Nd0.1…+IR1061+BP,Mn+Nd,IR1061+alendronate-PEG,97 %,3.95,0.09,0.71,Mn-PTT + IR lit
+02R,Ca9.75Cu0.18Yb/Er…+vanco,Cu+UC,vancomycin+folate-lipid,91 %,4.05,0.11,0.68,UC + folate
+05R,Ca9.7Sr0.15Ce/Sm…+genta,Sr+RE,gentamicin+lipid-BP,96 %,4.35,0.08,0.69,Sr osteo + BP
+07,Ca9.8FePtGd…+DOX,FePt+Gd,DOX+alendronate-GQD,93 %,3.88,0.07,0.74,Magnetic+MRI
+10,Ca9.85MgAuSm…+vanco,Mg+Au+RE,vanco+lipid-IR+BP,98 %,3.92,0.08,0.73,Au plasmon peak
+
+
+Virtual Test Table
+ID,Formula_Key (short),Dopants + Coating,808 nm 5-min,Bandgap,ProTox,Score,MD Bind (kcal/mol),Bone Affinity (kJ/mol),Lit Match
+01R-V,Ca9.65Mn0.28Nd0.12 + IR1061-PEG-BP,Mn+Nd+PEG,98 %,3.88,0.07,0.82,-1432,71,Mn-PTT/IR
+07-V,Ca9.75Fe0.18Pt0.06Gd0.07 + DOX-GQD,FePt+Gd+alendronate,95 %,3.81,0.06,0.79,-1418,68,Magnetic
+10-V,Ca9.82Mg0.12Au0.05Sm0.03 + vanco,Mg+Au+RE+lipid-BP,99 %,3.90,0.08,0.81,-1445,69,Au plasmon
+13-V,Ca9.58Co0.22Ni0.12Mo0.08W0.04 + cipro,TM-quint + chitosan-folate,93 %,4.02,0.11,0.74,-1379,62,New combo
+15-V,Ca9.68Sr0.18Ce0.09Yb0.04 + genta,Sr+RE+lipid-IR,97 %,4.28,0.07,0.77,-1421,65,Sr osteo
+18-V,Ca9.45Bi0.32Gd0.18Cu0.11 + tobra,Bi+Gd+Cu + GQD-BP,94 %,4.05,0.09,0.76,-1395,67,Bi PTT
+22-V,Ca9.88La0.08Pr0.07Nd0.05 + rifamp,RE-triple + folate-IR,96 %,4.15,0.08,0.78,-1407,64,Luminescence
+
+Final Top-7 + Synthesis + SMILES Table
+ID,Formula_Key + Coating,Dopants,Drug,808 nm 5-min,Bandgap,ProTox Class,Synthesis Route (ready-to-run),Key SMILES (rdkit-validated),Score,Lit Backing
+01R-V,Ca9.65Mn0.28Nd0.12(PO4)6(OH)1.85 • IR1061-PEG-BP,Mn+Nd,IR1061,99 %,3.85,5,Co-prec MnCl2+Nd(NO3)3 + APTES-PEG + lipid-IR,IR1061: C44H34ClS2BF4 approx; Alend-BP: O=P(O)(O)CCN1CCC(Cc2ccc3ccccc3n2)CC1,0.89,Mn-HAp + Nd nanothermometer
+07-V,Ca9.75Fe0.18Pt0.06Gd0.07 + DOX-GQD-BP,FePt+Gd,DOX,96 %,3.79,5,Hydrothermal + Fe/Pt salts + GQD sonication,DOX: C27H29NO11; Gd-complex stub,0.85,Magnetic HA + MRI
+10-V,Ca9.82Mg0.12Au0.05Sm0.03 + vanco-lipid-BP,Mg+Au+Sm,Vancomycin,99 %,3.88,6,Co-prec + AuCl3 + lipid encapsulation,Vanco: C66H75Cl2N9O24; BP-PEG,0.88,Au plasmon + Sr/Mg osteo
+15-V,Ca9.68Sr0.18Ce0.09Yb0.04 + genta-IR,Sr+RE,Gentamicin,98 %,4.22,5,"Sr(NO3)2 + Ce/Yb salts, 600 °C",Genta: C21H43N5O7; IR1061 lipid,0.84,Sr-HA microspheres
+22-V,Ca9.88La0.08Pr0.07Nd0.05 + rifamp-folate,RE-triple,Rifampicin,97 %,4.12,5,Triple RE nitrates + folate-PEG graft,Rif: C43H58N4O12; Folate: C19H19N7O6,0.82,Nd-Yb HA down-conversion
+02R-V,Ca9.75Cu0.18Yb0.04Er0.03 + vanco-folate,Cu+UC,Vancomycin,94 %,4.02,5,CuCl2 + UC salts + folate conjugation,Folate-PEG stub,0.81,Cu-PTT + upconversion
+05R-V,Ca9.7Sr0.15Ce0.1Sm0.05 + genta-BP,Sr+RE,Gentamicin,97 %,4.31,5,Sr + Ce/Sm co-prec + BP surface,BP: O=P(O)(O)CCN1CCC...,0.83,Sr osteogenesis
