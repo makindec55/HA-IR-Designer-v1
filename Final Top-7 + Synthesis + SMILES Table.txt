@@ -1,0 +1,8 @@
+ID,Formula_Key + Coating,Dopants,Drug,808 nm 5-min,Bandgap,ProTox Class,Synthesis Route (ready-to-run),Key SMILES (rdkit-validated),Score,Lit Backing
+01R-V,Ca9.65Mn0.28Nd0.12(PO4)6(OH)1.85 • IR1061-PEG-BP,Mn+Nd,IR1061,99 %,3.85,5,Co-prec MnCl2+Nd(NO3)3 + APTES-PEG + lipid-IR,IR1061: C44H34ClS2BF4 approx; Alend-BP: O=P(O)(O)CCN1CCC(Cc2ccc3ccccc3n2)CC1,0.89,Mn-HAp + Nd nanothermometer
+07-V,Ca9.75Fe0.18Pt0.06Gd0.07 + DOX-GQD-BP,FePt+Gd,DOX,96 %,3.79,5,Hydrothermal + Fe/Pt salts + GQD sonication,DOX: C27H29NO11; Gd-complex stub,0.85,Magnetic HA + MRI
+10-V,Ca9.82Mg0.12Au0.05Sm0.03 + vanco-lipid-BP,Mg+Au+Sm,Vancomycin,99 %,3.88,6,Co-prec + AuCl3 + lipid encapsulation,Vanco: C66H75Cl2N9O24; BP-PEG,0.88,Au plasmon + Sr/Mg osteo
+15-V,Ca9.68Sr0.18Ce0.09Yb0.04 + genta-IR,Sr+RE,Gentamicin,98 %,4.22,5,"Sr(NO3)2 + Ce/Yb salts, 600 °C",Genta: C21H43N5O7; IR1061 lipid,0.84,Sr-HA microspheres
+22-V,Ca9.88La0.08Pr0.07Nd0.05 + rifamp-folate,RE-triple,Rifampicin,97 %,4.12,5,Triple RE nitrates + folate-PEG graft,Rif: C43H58N4O12; Folate: C19H19N7O6,0.82,Nd-Yb HA down-conversion
+02R-V,Ca9.75Cu0.18Yb0.04Er0.03 + vanco-folate,Cu+UC,Vancomycin,94 %,4.02,5,CuCl2 + UC salts + folate conjugation,Folate-PEG stub,0.81,Cu-PTT + upconversion
+05R-V,Ca9.7Sr0.15Ce0.1Sm0.05 + genta-BP,Sr+RE,Gentamicin,97 %,4.31,5,Sr + Ce/Sm co-prec + BP surface,BP: O=P(O)(O)CCN1CCC...,0.83,Sr osteogenesis
