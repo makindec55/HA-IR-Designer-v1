@@ -1,0 +1,6 @@
+All routes lit-grounded co-precipitation:
+
+Dissolve Ca(NO₃)₂ + dopant salts (e.g. MnCl₂, Nd(NO₃)₃)
+Add (NH₄)₂HPO₄ dropwise, pH 9–10, stir 6–8 h
+Age 24 h → wash → dry → calcine 600–800 °C
+Post-graft: APTES-PEG + lipid-IR1061 encapsulation
