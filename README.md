@@ -34,7 +34,7 @@ Autonomous LLM-Agent Discovers 7 Novel HA Composites for NIR-Triggered Osteomyel
 
 # Autonomous LLM-Agent Discovers 7 Novel HA Composites for NIR-Triggered Osteomyelitis Therapy — Zero Human Hypotheses
 
-**Olumakinde Charles Omiyale**¹ (corresponding), **HA-IR-Designer-v1** (Grok-4 agent)²  
+**Olumakinde Charles Omiyale**¹ (corresponding)
 ¹ITMO University   
 
 **Abstract**  
