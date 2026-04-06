@@ -84,7 +84,7 @@ HA-IR-Designer-v1 demonstrates that free LLM agents can perform end-to-end disco
 **Acknowledgements**  
 Powered exclusively by Grok-4 free interface + open tools. 
 
-**References** (selected – full 25 in SI)  
+**References** (selected – full 15 in SI)  
 [1] Omiyale O.O. Large Language Model Driven Predictive Modeling of Silver, Zinc, Titanium, Magnesium, Gold Doped Hydroxyapatite for Infrared Triggered Drug Delivery // Research Square. 2026. doi: https://doi.org/10.21203/rs.3.rs-8524202/v1  
 [15] Han Q., Lau J.W., Do T.T., Zhang Z., Xing B. Near-Infrared Light Brightens Bacterial Disinfection: Recent Progress and Perspectives // ACS Biomater. Sci. Eng. 2021. V. 7. N 4. P. 1302–1315. doi:https://doi.org/10.1021/acsbiomaterials.0c01436 
 ... (GitHub has BibTeX)
@@ -94,4 +94,4 @@ Powered exclusively by Grok-4 free interface + open tools.
 - Colab notebook  
 - All synthesis PDFs-ready  
 - Reviewer FAQ + rebuttals  
-- GitHub: [https://github.com/makindec55/HA-DESIGNER] 
+- GitHub: [(https://github.com/makindec55/HA-IR-Designer-v1.0)] 
