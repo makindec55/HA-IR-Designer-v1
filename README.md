@@ -32,7 +32,7 @@ Autonomous LLM-Agent Discovers 7 Novel HA Composites for NIR-Triggered Osteomyel
 
 
 
-# Autonomous LLM-Agent Discovers 7 Novel HA Composites for NIR-Triggered Osteomyelitis Therapy — Zero Human Hypotheses
+# Development of an autonomous large language model agent for the discovery of novel hydroxyapatite-based nanocomposites in near-infrared-triggered osteomyelitis therapy
 
 **Olumakinde Charles Omiyale**¹ (corresponding)
 ¹ITMO University   
