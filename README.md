@@ -92,6 +92,5 @@ Powered exclusively by Grok-4 free interface + open tools.
 **Supporting Information**  
 - Full 50-candidate CSV  
 - Colab notebook  
-- All synthesis PDFs-ready  
-- Reviewer FAQ + rebuttals  
+- All synthesis PDFs-ready    
 - GitHub: [(https://github.com/makindec55/HA-IR-Designer-v1.0)] 
